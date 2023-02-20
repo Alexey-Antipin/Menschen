@@ -1,0 +1,91 @@
+.services {
+    .services__inner {
+      display: flex;
+      justify-content: space-between;
+      height: 644px;
+      margin: 0 auto;
+      max-width: 1110px;
+      .services__item {
+        height: 644px;
+        max-width: 475px;
+        position: relative;
+        z-index: -1;
+        .services__inner-block {
+          margin-top: 220px;
+        }
+        .services__text:nth-child(1) {
+          font-family: Poppins;
+          font-size: 14px;
+          font-weight: 400;
+          line-height: 21px;
+          margin-bottom: 29px;
+          color: rgba(77, 83, 60, 0.9);
+        }
+        .services__text:nth-child(2) {
+          font-family: Poppins;
+          font-size: 36px;
+          font-weight: 700;
+          line-height: 46px;
+          color: #4d533c;
+          width: 470px;
+          margin-bottom: 35px;
+        }
+        .services__text:nth-child(3) {
+          font-family: Poppins;
+          font-family: Poppins;
+          font-size: 16px;
+          font-weight: 400;
+          line-height: 26px;
+          margin-bottom: 42px;
+          color: rgba(33, 56, 66, 0.6);
+        }
+        .services__text:nth-child(4) {
+          font-family: Poppins;
+          font-size: 16px;
+          font-weight: 400;
+          line-height: 24px;
+          text-decoration: underline;
+          color: #d4d6d4;
+        }
+      }
+      .services__item:nth-child(2) {
+        background: #ffffff;
+        box-shadow: 0px 100px 100px rgba(0, 0, 0, 0.145947);
+        .services__text {
+          font-family: Poppins;
+          font-size: 24px;
+          font-style: italic;
+          font-weight: 400;
+          line-height: 40px;
+          color: #4d533c;
+          padding-left: 40px;
+          padding-right: 8px;
+        }
+        .services__block {
+          display: flex;
+          padding-top: 10px;
+          padding-left: 10px;
+          .services__block-text {
+            position: absolute;
+            right: 100px;
+            margin-top: 34px;
+            .services__text-people:nth-child(1) {
+              font-family: Poppins;
+              font-size: 22px;
+              font-weight: 700;
+              line-height: 33px;
+              color: #4d533c;
+            }
+            .services__text-people:nth-child(2) {
+              font-family: Poppins;
+              font-size: 16px;
+              font-weight: 400;
+              line-height: 24px;
+              color: #152934;
+            }
+          }
+        }
+      }
+    }
+  }
+  

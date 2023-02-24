@@ -1,4 +1,4 @@
-import { photoPeople } from "../..";
+import { photoPeople } from "../../image";
 import "./index.scss";
 
 export const Services: React.FC = () => {

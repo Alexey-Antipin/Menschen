@@ -5,7 +5,7 @@ import {
   bitmap_2,
   bitmap_3,
   bitmap,
-} from "../..";
+} from "../../image";
 import "./index.scss";
 
 export const Project: React.FC = () => {

@@ -11,7 +11,7 @@ import {
   ideal,
   menu,
   wal,
-} from "../..";
+} from "../../image";
 import "./index.scss";
 
 export const Slider: React.FC = () => {

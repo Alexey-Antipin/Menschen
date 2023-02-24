@@ -1,4 +1,4 @@
-import photoPeople from "./image/clientService/oval.png";
+import photoPeople from "./clientService/oval.png";
 
 import {
   leadershipAcademy,
@@ -6,7 +6,7 @@ import {
   andrewPorter,
   ideal,
   wal,
-} from "./image/clientBlock";
+} from "./clientBlock";
 
 import {
   triangleRight,
@@ -16,7 +16,7 @@ import {
   getInTouch,
   webovio,
   menu,
-} from "./image/slider";
+} from "./slider";
 
 import {
   peopleBanner_3,
@@ -25,7 +25,7 @@ import {
   bitmap_3,
   bitmap_2,
   bitmap,
-} from "./image/project";
+} from "./project";
 
 export {
   triangleRight,

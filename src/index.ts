@@ -1,4 +1,4 @@
-import photoPeople from "./clientService/oval.png";
+import photoPeople from "./image/clientService/oval.png";
 
 import {
   leadershipAcademy,

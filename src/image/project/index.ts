@@ -1,9 +1,9 @@
-import peopleBanner_3 from "./project/people_3.png";
-import peopleBanner_2 from "./project/people_2.png";
-import peopleBanner from "./project/people.png";
-import bitmap_3 from "./project/bitmap_3.png";
-import bitmap_2 from "./project/bitmap_2.png";
-import bitmap from "./project/bitmap_1.png";
+import peopleBanner_3 from "./people_3.png";
+import peopleBanner_2 from "./people_2.png";
+import peopleBanner from "./people.png";
+import bitmap_3 from "./bitmap_3.png";
+import bitmap_2 from "./bitmap_2.png";
+import bitmap from "./bitmap_1.png";
 
 export {
   peopleBanner_3,

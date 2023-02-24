@@ -1,0 +1,1674 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Тестирование Все компоненты 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="slider"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="slider__inner"
+          >
+            <nav
+              class="navigation-bar"
+            >
+              <ul
+                class="navigation-bar__inner"
+              >
+                <div
+                  class="logo"
+                >
+                  <div
+                    class="logo__inner"
+                  >
+                    <div
+                      class="logo__box"
+                    >
+                      <img
+                        alt="triangle"
+                        class="logo__picture"
+                        src="triangleLeft.png"
+                      />
+                      <img
+                        alt="triangle"
+                        class="logo__picture"
+                        src="rectangle.png"
+                      />
+                      <img
+                        alt="triangle"
+                        class="logo__picture"
+                        src="triangleRight.png"
+                      />
+                    </div>
+                    <img
+                      alt="text"
+                      class="logo__text"
+                      src="webovio.png"
+                    />
+                    <img
+                      alt="point"
+                      class="logo__point"
+                      src="webovioPoint.png"
+                    />
+                  </div>
+                </div>
+                <img
+                  alt="menu"
+                  class="navigation-bar__menu"
+                  src="menu.png"
+                />
+              </ul>
+            </nav>
+            <div
+              class="box"
+            >
+              <div
+                class="box__inner"
+              >
+                <div
+                  class="box__text"
+                >
+                  A place where 
+                </div>
+                <div
+                  class="box__text"
+                >
+                  A creative agency for redemptive brands
+                </div>
+                <div
+                  class="box__text"
+                >
+                  Anteelo is a leading strategic design firm that builds powerful digital solutions for startups and enterprises.
+                </div>
+                <img
+                  alt="link"
+                  class="box__link"
+                  src="getInTouch.png"
+                />
+                <div
+                  class="box__string"
+                />
+              </div>
+            </div>
+            <div
+              class="client"
+            >
+              <div
+                class="client__inner"
+              >
+                <div
+                  class="client__box"
+                >
+                  <img
+                    alt="brends"
+                    class="client__item"
+                    src="andrewPorter.png"
+                  />
+                  <img
+                    alt="brends"
+                    class="client__item"
+                    src="leadershipAcademy.png"
+                  />
+                  <img
+                    alt="brends"
+                    class="client__item"
+                    src="wal.png"
+                  />
+                  <img
+                    alt="brends"
+                    class="client__item"
+                    src="ideal.png"
+                  />
+                  <img
+                    alt="brends"
+                    class="client__item"
+                    src="phalenLeadership.png"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="services"
+          >
+            <div
+              class="services__inner"
+            >
+              <div
+                class="services__item"
+              >
+                <div
+                  class="services__inner-block"
+                >
+                  <div
+                    class="services__text"
+                  >
+                    What we do for you
+                  </div>
+                  <div
+                    class="services__text"
+                  >
+                    Strategy. Design Content. Technology Development
+                  </div>
+                  <div
+                    class="services__text"
+                  >
+                    There’s no secret sauce, no wizard behind the curtain. What makes Aerolab tick is an interdisciplinary team with a framework that fosters candid collaboration.
+                  </div>
+                  <div
+                    class="services__text"
+                  >
+                    ▶ More know About us
+                  </div>
+                </div>
+              </div>
+              <div
+                class="services__item"
+              >
+                <div
+                  class="services__inner-block"
+                >
+                  <div
+                    class="services__text"
+                  >
+                    With More than 10 Years of Knowledge and Expertise we Design and Code Websites and Apps, We Build Brands and Help Them Succeed
+                  </div>
+                  <div
+                    class="services__block"
+                  >
+                    <img
+                      alt="people"
+                      class="services__picture"
+                      src="oval.png"
+                    />
+                    <div
+                      class="services__block-text"
+                    >
+                      <div
+                        class="services__text-people"
+                      >
+                        Genevieve Rodriquez
+                      </div>
+                      <div
+                        class="services__text-people"
+                      >
+                        Founder & CEO, Webovio
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="project"
+          >
+            <div
+              class="project__inner"
+            >
+              <hr
+                class="project__line"
+              />
+              <div
+                class="project__block"
+              >
+                <div
+                  class="project__text"
+                >
+                  We Have Some Awesomr Project.
+                </div>
+                <div
+                  class="project__text"
+                >
+                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                </div>
+              </div>
+            </div>
+            <div
+              class="product"
+            >
+              <div
+                class="product__inner"
+              >
+                <img
+                  alt="bitmap"
+                  class="product__picture"
+                  src="bitmap_1.png"
+                />
+                <div
+                  class="product__banner"
+                >
+                  <div
+                    class="product__banner-text"
+                  >
+                    “In my history of working with trade show vendors, I can honestly say that there is not one company that I've ever worked with that has better service than Exhibit Systems.”
+                  </div>
+                  <div
+                    class="product__banner-block"
+                  >
+                    <img
+                      alt="people"
+                      class="product__banner-avatar"
+                      src="people.png"
+                    />
+                    <div
+                      class="product__banner-block-slogans"
+                    >
+                      <div
+                        class="product__banner-slogan"
+                      >
+                        Angel Armstrong
+                      </div>
+                      <div
+                        class="product__banner-slogan"
+                      >
+                        Founder & CEO, Google
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="product__block"
+                >
+                  <div
+                    class="product__text"
+                  >
+                    The wall new Balenciaga.com
+                  </div>
+                  <div
+                    class="product__text"
+                  >
+                    This article is floated online with an aim to help you find the best dvd printing solution.
+                    <br />
+                    <br />
+                     Dvd printing is an important feature used by large and small DVD production houses to print information on DVDs.
+                  </div>
+                  <div
+                    class="product__text"
+                  >
+                    ▶ See Case Study
+                  </div>
+                  <div
+                    class="product__underline"
+                  />
+                </div>
+              </div>
+              <div
+                class="product__inner reverse-block"
+              >
+                <img
+                  alt="bitmap"
+                  class="product__picture size-picture-2"
+                  src="bitmap_2.png"
+                />
+                <div
+                  class="product__banner product-reverse"
+                >
+                  <div
+                    class="product__banner-text"
+                  >
+                    “I know they are going to be honest with me. I am not going to get a subpar product; I know it is going to be good. That is the number one advantage of working with Exhibit Systems.
+                  </div>
+                  <div
+                    class="product__banner-block"
+                  >
+                    <img
+                      alt="people"
+                      class="product__banner-avatar"
+                      src="people_2.png"
+                    />
+                    <div
+                      class="product__banner-block-slogans"
+                    >
+                      <div
+                        class="product__banner-slogan"
+                      >
+                        Lina Hart
+                      </div>
+                      <div
+                        class="product__banner-slogan"
+                      >
+                        Founder & CEO, Jico
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="product__block right-text"
+                >
+                  <div
+                    class="product__text"
+                  >
+                    Is this the future of
+                    <br />
+                    3D model?
+                  </div>
+                  <div
+                    class="product__text"
+                  >
+                    While it was just a TV show, that little speech at the beginning of the original Star Trek show really did do a good job of capturing our feelings about space.
+                    <br />
+                    <br />
+                     It is those feelings that drive our love of astronomy and our desire to learn more and more about it.
+                  </div>
+                  <div
+                    class="product__text"
+                  >
+                    ▶ See Case Study
+                  </div>
+                  <div
+                    class="product__underline"
+                  />
+                </div>
+              </div>
+              <div
+                class="product__inner"
+              >
+                <img
+                  alt="bitmap"
+                  class="product__picture size-picture-3"
+                  src="bitmap_3.png"
+                />
+                <div
+                  class="product__banner product-reverse-3"
+                >
+                  <div
+                    class="product__banner-text"
+                  >
+                    “Exhibit Systems is not a provider. They are not a supplier. They are a partner with expertise in making trade shows effective.”
+                  </div>
+                  <div
+                    class="product__banner-block product-reverse-text"
+                  >
+                    <img
+                      alt="people"
+                      class="product__banner-avatar center-avatar"
+                      src="people_3.png"
+                    />
+                    <div
+                      class="product__banner-block-slogans center-3"
+                    >
+                      <div
+                        class="product__banner-slogan"
+                      >
+                        Eunice Oliver
+                      </div>
+                      <div
+                        class="product__banner-slogan"
+                      >
+                        Founder & CEO, Zeem
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="product__block"
+                >
+                  <div
+                    class="product__text center-text"
+                  >
+                    Is this the future of
+                    <br />
+                    <span
+                      class="left-text"
+                    >
+                      Online Booking
+                    </span>
+                  </div>
+                  <div
+                    class="product__text left-text"
+                  >
+                    You should be able to find several indispensable facts about motivation in the following paragraphs.
+                    <br />
+                    <br />
+                     If there’s at least one fact you didn’t know before, imagine the difference it might make.
+                  </div>
+                  <div
+                    class="product__text left-text"
+                  >
+                    ▶ See Case Study
+                  </div>
+                  <div
+                    class="product__underline"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="evaluation"
+          >
+            <div
+              class="evaluation__inner"
+            >
+              <hr
+                class="evaluation__line"
+              />
+              <div
+                class="evaluation__title"
+              >
+                Deation & Evaluation - Best Way to Kick off Your Product Idea
+              </div>
+              <div
+                class="evaluation__block-text"
+              >
+                <div
+                  class="evaluation__block"
+                >
+                  <div
+                    class="evaluation__header"
+                  >
+                    Product 
+                    <br />
+                     Design Sprint
+                  </div>
+                  <div
+                    class="evaluation__text"
+                  >
+                    A five-day workshop that will help you answer crucial business questions
+                  </div>
+                  <a
+                    class="evaluation__link  evaluation__link--active"
+                    href="/#"
+                  >
+                    ▶ Read More
+                  </a>
+                </div>
+                <div
+                  class="evaluation__block"
+                >
+                  <div
+                    class="evaluation__header"
+                  >
+                    Scoping
+                    <br />
+                     Session
+                  </div>
+                  <div
+                    class="evaluation__text"
+                  >
+                    A workshop aimed at shaping your business idea, answering questions regarding project planning
+                  </div>
+                  <a
+                    class="evaluation__link"
+                    href="/#"
+                  >
+                    ▶ Read More
+                  </a>
+                </div>
+                <div
+                  class="evaluation__block"
+                >
+                  <div
+                    class="evaluation__header"
+                  >
+                    UX
+                    <br />
+                     Review
+                  </div>
+                  <div
+                    class="evaluation__text"
+                  >
+                    An evaluation which will help you radically improve your product.
+                  </div>
+                  <a
+                    class="evaluation__link"
+                    href="/#"
+                  >
+                    ▶ Read More
+                  </a>
+                </div>
+                <div
+                  class="evaluation__block"
+                >
+                  <div
+                    class="evaluation__header"
+                  >
+                    Code
+                    <br />
+                     Review
+                  </div>
+                  <div
+                    class="evaluation__text"
+                  >
+                    Do you know what one of the key secrets of success is what makes people successful in business
+                  </div>
+                  <a
+                    class="evaluation__link"
+                    href="/#"
+                  >
+                    ▶ Read More
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="footer"
+          >
+            <div
+              class="footer__inner"
+            >
+              <div
+                class="footer__slogan"
+              >
+                <div
+                  class="footer__text"
+                >
+                  Let’s make something amazing together.
+                </div>
+                <div
+                  class="footer__text"
+                >
+                   ▶ LET'S GET STARTED
+                </div>
+              </div>
+              <div
+                class="footer__block"
+              >
+                <div
+                  class="footer__info"
+                >
+                  <div
+                    class="footer__call"
+                  >
+                    <div
+                      class="footer__info-block"
+                    >
+                      <div
+                        class="footer__phone"
+                      >
+                        Phone
+                      </div>
+                      <div
+                        class="footer__phone-name"
+                      >
+                        +32 50 31 28 32
+                      </div>
+                    </div>
+                    <div
+                      class="footer__info-block"
+                    >
+                      <div
+                        class="footer__address"
+                      >
+                        Address
+                      </div>
+                      <div
+                        class="footer__address-name"
+                      >
+                        491 Merlin Crest Suite 963
+                      </div>
+                    </div>
+                  </div>
+                  <hr
+                    class="footer__line"
+                  />
+                </div>
+              </div>
+              <div
+                class="footer__description"
+              >
+                <div
+                  class="footer__description-block"
+                >
+                  <div
+                    class="footer__paragraph"
+                  >
+                    Services
+                  </div>
+                  <ul
+                    class="footer__paragraph-list"
+                  >
+                    <li
+                      class="footer__paragraph-text"
+                    >
+                      Strategy Design
+                    </li>
+                    <li
+                      class="footer__paragraph-text"
+                    >
+                      Product Design
+                    </li>
+                    <li
+                      class="footer__paragraph-text"
+                    >
+                      Content Strategy
+                    </li>
+                    <li
+                      class="footer__paragraph-text"
+                    >
+                      Brand Strategy
+                    </li>
+                    <li
+                      class="footer__paragraph-text"
+                    >
+                      Development
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  class="footer__description-block"
+                >
+                  <div
+                    class="footer__paragraph"
+                  >
+                    Help And Advice
+                  </div>
+                  <ul
+                    class="footer__paragraph-list"
+                  >
+                    <li
+                      class="footer__paragraph-text"
+                    >
+                      How it works
+                    </li>
+                    <li
+                      class="footer__paragraph-text"
+                    >
+                      Contact Support
+                    </li>
+                    <li
+                      class="footer__paragraph-text"
+                    >
+                      Privacy Policy
+                    </li>
+                    <li
+                      class="footer__paragraph-text"
+                    >
+                      FAQ
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  class="footer__description-block"
+                >
+                  <div
+                    class="footer__paragraph"
+                  >
+                    Company
+                  </div>
+                  <ul
+                    class="footer__paragraph-list"
+                  >
+                    <li
+                      class="footer__paragraph-text"
+                    >
+                      About
+                    </li>
+                    <li
+                      class="footer__paragraph-text"
+                    >
+                      Blog
+                    </li>
+                    <li
+                      class="footer__paragraph-text"
+                    >
+                      Contact
+                    </li>
+                    <li
+                      class="footer__paragraph-text"
+                    >
+                      Jobs
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  class="footer__description-block"
+                >
+                  <div
+                    class="footer__paragraph"
+                  >
+                    Get in Touch
+                  </div>
+                  <div
+                    class="footer__paragraph-slogan"
+                  >
+                    Feel free to get in touch with us vai email
+                  </div>
+                  <div
+                    class="footer__description-email"
+                  >
+                    info.webovio@gmail.com
+                  </div>
+                  <div
+                    class="footer__description-content"
+                  >
+                    <div
+                      class="footer__description-circle"
+                    />
+                    <div
+                      class="footer__description-circle"
+                    />
+                    <div
+                      class="footer__description-circle"
+                    />
+                    <div
+                      class="footer__description-circle"
+                    />
+                    <div
+                      class="footer__description-background"
+                    />
+                  </div>
+                </div>
+              </div>
+              <hr
+                class="footer__under-line"
+              />
+              <div
+                class="footer-under__block"
+              >
+                <div
+                  class="logo logo-position"
+                >
+                  <div
+                    class="logo__inner"
+                  >
+                    <div
+                      class="logo__box"
+                    >
+                      <img
+                        alt="triangle"
+                        class="logo__picture"
+                        src="triangleLeft.png"
+                      />
+                      <img
+                        alt="triangle"
+                        class="logo__picture"
+                        src="rectangle.png"
+                      />
+                      <img
+                        alt="triangle"
+                        class="logo__picture"
+                        src="triangleRight.png"
+                      />
+                    </div>
+                    <img
+                      alt="text"
+                      class="logo__text"
+                      src="webovio.png"
+                    />
+                    <img
+                      alt="point"
+                      class="logo__point"
+                      src="webovioPoint.png"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="footer-under__text"
+                >
+                  © 2020@webovio. All Rights Reserved.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="slider"
+    >
+      <div
+        class="container"
+      >
+        <div
+          class="slider__inner"
+        >
+          <nav
+            class="navigation-bar"
+          >
+            <ul
+              class="navigation-bar__inner"
+            >
+              <div
+                class="logo"
+              >
+                <div
+                  class="logo__inner"
+                >
+                  <div
+                    class="logo__box"
+                  >
+                    <img
+                      alt="triangle"
+                      class="logo__picture"
+                      src="triangleLeft.png"
+                    />
+                    <img
+                      alt="triangle"
+                      class="logo__picture"
+                      src="rectangle.png"
+                    />
+                    <img
+                      alt="triangle"
+                      class="logo__picture"
+                      src="triangleRight.png"
+                    />
+                  </div>
+                  <img
+                    alt="text"
+                    class="logo__text"
+                    src="webovio.png"
+                  />
+                  <img
+                    alt="point"
+                    class="logo__point"
+                    src="webovioPoint.png"
+                  />
+                </div>
+              </div>
+              <img
+                alt="menu"
+                class="navigation-bar__menu"
+                src="menu.png"
+              />
+            </ul>
+          </nav>
+          <div
+            class="box"
+          >
+            <div
+              class="box__inner"
+            >
+              <div
+                class="box__text"
+              >
+                A place where 
+              </div>
+              <div
+                class="box__text"
+              >
+                A creative agency for redemptive brands
+              </div>
+              <div
+                class="box__text"
+              >
+                Anteelo is a leading strategic design firm that builds powerful digital solutions for startups and enterprises.
+              </div>
+              <img
+                alt="link"
+                class="box__link"
+                src="getInTouch.png"
+              />
+              <div
+                class="box__string"
+              />
+            </div>
+          </div>
+          <div
+            class="client"
+          >
+            <div
+              class="client__inner"
+            >
+              <div
+                class="client__box"
+              >
+                <img
+                  alt="brends"
+                  class="client__item"
+                  src="andrewPorter.png"
+                />
+                <img
+                  alt="brends"
+                  class="client__item"
+                  src="leadershipAcademy.png"
+                />
+                <img
+                  alt="brends"
+                  class="client__item"
+                  src="wal.png"
+                />
+                <img
+                  alt="brends"
+                  class="client__item"
+                  src="ideal.png"
+                />
+                <img
+                  alt="brends"
+                  class="client__item"
+                  src="phalenLeadership.png"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="services"
+        >
+          <div
+            class="services__inner"
+          >
+            <div
+              class="services__item"
+            >
+              <div
+                class="services__inner-block"
+              >
+                <div
+                  class="services__text"
+                >
+                  What we do for you
+                </div>
+                <div
+                  class="services__text"
+                >
+                  Strategy. Design Content. Technology Development
+                </div>
+                <div
+                  class="services__text"
+                >
+                  There’s no secret sauce, no wizard behind the curtain. What makes Aerolab tick is an interdisciplinary team with a framework that fosters candid collaboration.
+                </div>
+                <div
+                  class="services__text"
+                >
+                  ▶ More know About us
+                </div>
+              </div>
+            </div>
+            <div
+              class="services__item"
+            >
+              <div
+                class="services__inner-block"
+              >
+                <div
+                  class="services__text"
+                >
+                  With More than 10 Years of Knowledge and Expertise we Design and Code Websites and Apps, We Build Brands and Help Them Succeed
+                </div>
+                <div
+                  class="services__block"
+                >
+                  <img
+                    alt="people"
+                    class="services__picture"
+                    src="oval.png"
+                  />
+                  <div
+                    class="services__block-text"
+                  >
+                    <div
+                      class="services__text-people"
+                    >
+                      Genevieve Rodriquez
+                    </div>
+                    <div
+                      class="services__text-people"
+                    >
+                      Founder & CEO, Webovio
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="project"
+        >
+          <div
+            class="project__inner"
+          >
+            <hr
+              class="project__line"
+            />
+            <div
+              class="project__block"
+            >
+              <div
+                class="project__text"
+              >
+                We Have Some Awesomr Project.
+              </div>
+              <div
+                class="project__text"
+              >
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+              </div>
+            </div>
+          </div>
+          <div
+            class="product"
+          >
+            <div
+              class="product__inner"
+            >
+              <img
+                alt="bitmap"
+                class="product__picture"
+                src="bitmap_1.png"
+              />
+              <div
+                class="product__banner"
+              >
+                <div
+                  class="product__banner-text"
+                >
+                  “In my history of working with trade show vendors, I can honestly say that there is not one company that I've ever worked with that has better service than Exhibit Systems.”
+                </div>
+                <div
+                  class="product__banner-block"
+                >
+                  <img
+                    alt="people"
+                    class="product__banner-avatar"
+                    src="people.png"
+                  />
+                  <div
+                    class="product__banner-block-slogans"
+                  >
+                    <div
+                      class="product__banner-slogan"
+                    >
+                      Angel Armstrong
+                    </div>
+                    <div
+                      class="product__banner-slogan"
+                    >
+                      Founder & CEO, Google
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="product__block"
+              >
+                <div
+                  class="product__text"
+                >
+                  The wall new Balenciaga.com
+                </div>
+                <div
+                  class="product__text"
+                >
+                  This article is floated online with an aim to help you find the best dvd printing solution.
+                  <br />
+                  <br />
+                   Dvd printing is an important feature used by large and small DVD production houses to print information on DVDs.
+                </div>
+                <div
+                  class="product__text"
+                >
+                  ▶ See Case Study
+                </div>
+                <div
+                  class="product__underline"
+                />
+              </div>
+            </div>
+            <div
+              class="product__inner reverse-block"
+            >
+              <img
+                alt="bitmap"
+                class="product__picture size-picture-2"
+                src="bitmap_2.png"
+              />
+              <div
+                class="product__banner product-reverse"
+              >
+                <div
+                  class="product__banner-text"
+                >
+                  “I know they are going to be honest with me. I am not going to get a subpar product; I know it is going to be good. That is the number one advantage of working with Exhibit Systems.
+                </div>
+                <div
+                  class="product__banner-block"
+                >
+                  <img
+                    alt="people"
+                    class="product__banner-avatar"
+                    src="people_2.png"
+                  />
+                  <div
+                    class="product__banner-block-slogans"
+                  >
+                    <div
+                      class="product__banner-slogan"
+                    >
+                      Lina Hart
+                    </div>
+                    <div
+                      class="product__banner-slogan"
+                    >
+                      Founder & CEO, Jico
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="product__block right-text"
+              >
+                <div
+                  class="product__text"
+                >
+                  Is this the future of
+                  <br />
+                  3D model?
+                </div>
+                <div
+                  class="product__text"
+                >
+                  While it was just a TV show, that little speech at the beginning of the original Star Trek show really did do a good job of capturing our feelings about space.
+                  <br />
+                  <br />
+                   It is those feelings that drive our love of astronomy and our desire to learn more and more about it.
+                </div>
+                <div
+                  class="product__text"
+                >
+                  ▶ See Case Study
+                </div>
+                <div
+                  class="product__underline"
+                />
+              </div>
+            </div>
+            <div
+              class="product__inner"
+            >
+              <img
+                alt="bitmap"
+                class="product__picture size-picture-3"
+                src="bitmap_3.png"
+              />
+              <div
+                class="product__banner product-reverse-3"
+              >
+                <div
+                  class="product__banner-text"
+                >
+                  “Exhibit Systems is not a provider. They are not a supplier. They are a partner with expertise in making trade shows effective.”
+                </div>
+                <div
+                  class="product__banner-block product-reverse-text"
+                >
+                  <img
+                    alt="people"
+                    class="product__banner-avatar center-avatar"
+                    src="people_3.png"
+                  />
+                  <div
+                    class="product__banner-block-slogans center-3"
+                  >
+                    <div
+                      class="product__banner-slogan"
+                    >
+                      Eunice Oliver
+                    </div>
+                    <div
+                      class="product__banner-slogan"
+                    >
+                      Founder & CEO, Zeem
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="product__block"
+              >
+                <div
+                  class="product__text center-text"
+                >
+                  Is this the future of
+                  <br />
+                  <span
+                    class="left-text"
+                  >
+                    Online Booking
+                  </span>
+                </div>
+                <div
+                  class="product__text left-text"
+                >
+                  You should be able to find several indispensable facts about motivation in the following paragraphs.
+                  <br />
+                  <br />
+                   If there’s at least one fact you didn’t know before, imagine the difference it might make.
+                </div>
+                <div
+                  class="product__text left-text"
+                >
+                  ▶ See Case Study
+                </div>
+                <div
+                  class="product__underline"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="evaluation"
+        >
+          <div
+            class="evaluation__inner"
+          >
+            <hr
+              class="evaluation__line"
+            />
+            <div
+              class="evaluation__title"
+            >
+              Deation & Evaluation - Best Way to Kick off Your Product Idea
+            </div>
+            <div
+              class="evaluation__block-text"
+            >
+              <div
+                class="evaluation__block"
+              >
+                <div
+                  class="evaluation__header"
+                >
+                  Product 
+                  <br />
+                   Design Sprint
+                </div>
+                <div
+                  class="evaluation__text"
+                >
+                  A five-day workshop that will help you answer crucial business questions
+                </div>
+                <a
+                  class="evaluation__link  evaluation__link--active"
+                  href="/#"
+                >
+                  ▶ Read More
+                </a>
+              </div>
+              <div
+                class="evaluation__block"
+              >
+                <div
+                  class="evaluation__header"
+                >
+                  Scoping
+                  <br />
+                   Session
+                </div>
+                <div
+                  class="evaluation__text"
+                >
+                  A workshop aimed at shaping your business idea, answering questions regarding project planning
+                </div>
+                <a
+                  class="evaluation__link"
+                  href="/#"
+                >
+                  ▶ Read More
+                </a>
+              </div>
+              <div
+                class="evaluation__block"
+              >
+                <div
+                  class="evaluation__header"
+                >
+                  UX
+                  <br />
+                   Review
+                </div>
+                <div
+                  class="evaluation__text"
+                >
+                  An evaluation which will help you radically improve your product.
+                </div>
+                <a
+                  class="evaluation__link"
+                  href="/#"
+                >
+                  ▶ Read More
+                </a>
+              </div>
+              <div
+                class="evaluation__block"
+              >
+                <div
+                  class="evaluation__header"
+                >
+                  Code
+                  <br />
+                   Review
+                </div>
+                <div
+                  class="evaluation__text"
+                >
+                  Do you know what one of the key secrets of success is what makes people successful in business
+                </div>
+                <a
+                  class="evaluation__link"
+                  href="/#"
+                >
+                  ▶ Read More
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="footer"
+        >
+          <div
+            class="footer__inner"
+          >
+            <div
+              class="footer__slogan"
+            >
+              <div
+                class="footer__text"
+              >
+                Let’s make something amazing together.
+              </div>
+              <div
+                class="footer__text"
+              >
+                 ▶ LET'S GET STARTED
+              </div>
+            </div>
+            <div
+              class="footer__block"
+            >
+              <div
+                class="footer__info"
+              >
+                <div
+                  class="footer__call"
+                >
+                  <div
+                    class="footer__info-block"
+                  >
+                    <div
+                      class="footer__phone"
+                    >
+                      Phone
+                    </div>
+                    <div
+                      class="footer__phone-name"
+                    >
+                      +32 50 31 28 32
+                    </div>
+                  </div>
+                  <div
+                    class="footer__info-block"
+                  >
+                    <div
+                      class="footer__address"
+                    >
+                      Address
+                    </div>
+                    <div
+                      class="footer__address-name"
+                    >
+                      491 Merlin Crest Suite 963
+                    </div>
+                  </div>
+                </div>
+                <hr
+                  class="footer__line"
+                />
+              </div>
+            </div>
+            <div
+              class="footer__description"
+            >
+              <div
+                class="footer__description-block"
+              >
+                <div
+                  class="footer__paragraph"
+                >
+                  Services
+                </div>
+                <ul
+                  class="footer__paragraph-list"
+                >
+                  <li
+                    class="footer__paragraph-text"
+                  >
+                    Strategy Design
+                  </li>
+                  <li
+                    class="footer__paragraph-text"
+                  >
+                    Product Design
+                  </li>
+                  <li
+                    class="footer__paragraph-text"
+                  >
+                    Content Strategy
+                  </li>
+                  <li
+                    class="footer__paragraph-text"
+                  >
+                    Brand Strategy
+                  </li>
+                  <li
+                    class="footer__paragraph-text"
+                  >
+                    Development
+                  </li>
+                </ul>
+              </div>
+              <div
+                class="footer__description-block"
+              >
+                <div
+                  class="footer__paragraph"
+                >
+                  Help And Advice
+                </div>
+                <ul
+                  class="footer__paragraph-list"
+                >
+                  <li
+                    class="footer__paragraph-text"
+                  >
+                    How it works
+                  </li>
+                  <li
+                    class="footer__paragraph-text"
+                  >
+                    Contact Support
+                  </li>
+                  <li
+                    class="footer__paragraph-text"
+                  >
+                    Privacy Policy
+                  </li>
+                  <li
+                    class="footer__paragraph-text"
+                  >
+                    FAQ
+                  </li>
+                </ul>
+              </div>
+              <div
+                class="footer__description-block"
+              >
+                <div
+                  class="footer__paragraph"
+                >
+                  Company
+                </div>
+                <ul
+                  class="footer__paragraph-list"
+                >
+                  <li
+                    class="footer__paragraph-text"
+                  >
+                    About
+                  </li>
+                  <li
+                    class="footer__paragraph-text"
+                  >
+                    Blog
+                  </li>
+                  <li
+                    class="footer__paragraph-text"
+                  >
+                    Contact
+                  </li>
+                  <li
+                    class="footer__paragraph-text"
+                  >
+                    Jobs
+                  </li>
+                </ul>
+              </div>
+              <div
+                class="footer__description-block"
+              >
+                <div
+                  class="footer__paragraph"
+                >
+                  Get in Touch
+                </div>
+                <div
+                  class="footer__paragraph-slogan"
+                >
+                  Feel free to get in touch with us vai email
+                </div>
+                <div
+                  class="footer__description-email"
+                >
+                  info.webovio@gmail.com
+                </div>
+                <div
+                  class="footer__description-content"
+                >
+                  <div
+                    class="footer__description-circle"
+                  />
+                  <div
+                    class="footer__description-circle"
+                  />
+                  <div
+                    class="footer__description-circle"
+                  />
+                  <div
+                    class="footer__description-circle"
+                  />
+                  <div
+                    class="footer__description-background"
+                  />
+                </div>
+              </div>
+            </div>
+            <hr
+              class="footer__under-line"
+            />
+            <div
+              class="footer-under__block"
+            >
+              <div
+                class="logo logo-position"
+              >
+                <div
+                  class="logo__inner"
+                >
+                  <div
+                    class="logo__box"
+                  >
+                    <img
+                      alt="triangle"
+                      class="logo__picture"
+                      src="triangleLeft.png"
+                    />
+                    <img
+                      alt="triangle"
+                      class="logo__picture"
+                      src="rectangle.png"
+                    />
+                    <img
+                      alt="triangle"
+                      class="logo__picture"
+                      src="triangleRight.png"
+                    />
+                  </div>
+                  <img
+                    alt="text"
+                    class="logo__text"
+                    src="webovio.png"
+                  />
+                  <img
+                    alt="point"
+                    class="logo__point"
+                    src="webovioPoint.png"
+                  />
+                </div>
+              </div>
+              <div
+                class="footer-under__text"
+              >
+                © 2020@webovio. All Rights Reserved.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

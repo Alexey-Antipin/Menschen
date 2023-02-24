@@ -1,7 +1,7 @@
-import { photoPeople } from "../../image";
+import { photoPeople } from "../..";
 import "./index.scss";
 
-export const Services = () => {
+export const Services: React.FC = () => {
   return (
     <div className="services">
       <div className="services__inner">

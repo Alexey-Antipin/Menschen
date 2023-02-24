@@ -4,10 +4,10 @@ import {
   webovioPoint,
   triangleLeft,
   webovio,
-} from "../../image";
+} from "../..";
 import "./index.scss";
 
-export const Footer = () => {
+export const Footer: React.FC = () => {
   return (
     <div className="footer">
       <div className="footer__inner">

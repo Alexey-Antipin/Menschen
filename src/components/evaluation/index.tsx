@@ -1,6 +1,6 @@
 import "./index.scss";
 
-export const Evaluation = () => {
+export const Evaluation: React.FC = () => {
   return (
     <div className="evaluation">
       <div className="evaluation__inner">

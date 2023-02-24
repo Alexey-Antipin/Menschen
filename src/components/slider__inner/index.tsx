@@ -11,10 +11,10 @@ import {
   ideal,
   menu,
   wal,
-} from "../../image";
+} from "../..";
 import "./index.scss";
 
-export const Slider = () => {
+export const Slider: React.FC = () => {
   return (
     <div className="slider__inner">
       <nav className="navigation-bar">

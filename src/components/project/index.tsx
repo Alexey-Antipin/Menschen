@@ -5,10 +5,10 @@ import {
   bitmap_2,
   bitmap_3,
   bitmap,
-} from "../../image";
+} from "../..";
 import "./index.scss";
 
-export const Project = () => {
+export const Project: React.FC = () => {
   return (
     <div className="project">
       <div className="project__inner">
